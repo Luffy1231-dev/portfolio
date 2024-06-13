@@ -14,7 +14,6 @@
   </a>
 </p>
 
-![demo](https://user-images.githubusercontent.com/62770500/199337431-d632cc3c-12fb-40db-8f96-0d5e55555579.png)
 ---
 ## 🚨 About this repo (please read!)
 
@@ -219,8 +218,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Linkedin - [@abdellatif-anaflous](https://www.linkedin.com/in/abdellatif-anaflous/)
-- Website - [Abdellatif Anaflous](https://anaflous.com)
+- Website - [Lendon Bracewell](https://lendon-super-r.netlify.app/)
 
 [Back To The Top](#description) :
 
